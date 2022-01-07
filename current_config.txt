@@ -1,0 +1,7 @@
+path_to_shortcut = C:\\Users\\Bruh\\Desktop\\Mute.lnk
+keybind_mute = ctrl+o
+keybind_exit_program = esc
+
+
+Create shortcut for app (in this case MS teams) and copy it to path_to_shortcut
+Other keybinds are obvious
